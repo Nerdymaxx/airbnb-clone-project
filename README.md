@@ -2,7 +2,7 @@
 a clone of airbnb 
 
 this is a clone of the airbnb application built to learn and implement system design architecture.
-
+## Technology Stack
 the tech stack is 
 
 backend-python-django
